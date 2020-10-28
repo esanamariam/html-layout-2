@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    overflow: hidden;
+
+}
+.logo{
+width: 20%;
+background-color: darkslategray;
+float: left;
+height: 100px;
+text-align: center;
+}
+.logo h1{
+    color: #fff;
+    padding-top: 30px;
+
+}
+.banner{
+width: 80%;
+background-color: coral;
+float: right;
+height: 100px;
+text-align: center;
+}
+.banner h1{
+    padding-top: 30px;
+
+}
+.HeaderBar{
+    background-color: darkgoldenrod;
+    height: 50px;
+    text-align: center;
+}
+.HeaderBar h1{
+    color: #fff;
+}
+.article{
+    overflow: hidden;
+
+}
+.left{
+width: 20%;
+height: 600px;
+background-color: darkkhaki;
+float: left;
+text-align: center;
+}
+
+.center{
+width: 60%;
+height: 600px;
+background-color: darkslategray;
+float: left;
+text-align: center;
+}
+.center h1{
+    color: #fff;
+}
+
+.right{
+width: 20%;
+height: 600px;
+background-color: khaki;
+float: right;
+text-align: center;
+}
+.center-top{
+    height: 200px;
+    background-color: lavenderblush;
+   
+}
+
+.center-center{
+    height: 200px;
+    background-color: lightgreen;
+    overflow: hidden;
+
+}
+.center-bottom{
+height: 200px;
+background-color: olive;
+
+
+}
+
+
+
+.center-left{
+    width: 50%;
+    height: 100%;
+    background-color: orange;
+    float: left;
+    
+
+}
+
+.center-right{
+    width: 50%;
+    height: 100%;
+    background-color: peru;
+    float: right;
+
+}
+footer{
+    background-color: slateblue;
+    height: 100px;
+    text-align: center;
+}
+footer h1{
+    color: #fff;
+}
